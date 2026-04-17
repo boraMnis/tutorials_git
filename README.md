@@ -2,6 +2,6 @@
 
 ## Linha adicionada remotamente
 
-```bash
+``` bash
 cat /etc/os-release
 ```
